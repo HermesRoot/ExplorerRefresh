@@ -1,4 +1,4 @@
-# 🚀 ExplorerRefresh
+# ExplorerRefresh
 
 Este projeto contém um script em Python para reiniciar o Explorador de Arquivos do Windows 11 sem perder as abas abertas.
 
@@ -19,7 +19,7 @@ ExplorerRefresh/
 ```
 
 ## 🛠️ Como Usar
-### 1⃣ Instale as dependências necessárias
+### 1. Instale as dependências necessárias
 Execute o seguinte comando para instalar todas as bibliotecas usadas no script:  
 ```bash
 pip install -r requirements.txt
@@ -29,12 +29,12 @@ Caso prefira instalar manualmente, execute:
 pip install pyautogui pywin32 pyperclip
 ```
 
-### 2⃣ Execute o script
+### 2. Execute o script
 ```bash
 python ExplorerRefresh.py
 ```
 
-### 3⃣ Utilize o atalho `.vbs` (opcional)  
+### 3. Utilize o atalho `.vbs` (opcional)  
 Para evitar que o terminal apareça ao executar o script, utilize o arquivo `ExplorerRefresh.vbs`.  
 > **⚠️ Importante:** Antes de usar, edite o arquivo `ExplorerRefresh.vbs` e substitua `C:\Caminho\Para\ExplorerRefresh.py` pelo caminho correto onde o script está salvo:
 > ```vbs
