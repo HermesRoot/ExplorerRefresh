@@ -47,8 +47,10 @@ Para evitar que o terminal apareça ao executar o script, utilize o arquivo `Exp
 ✅ Fecha e reinicia o Explorer sem exibir mensagens.  
 ✅ Restaura todas as abas corretamente na mesma janela.  
 
-## 📄 Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+## 📝 Licença
 
----
-Criado por **HermesRoot** 
+Este projeto está licenciado sob a licença **MIT** — veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+## 👤 Autor
+
+Desenvolvido por **HermesRoot**.  
