@@ -50,9 +50,5 @@ Para evitar que o terminal apareça ao executar o script, utilize o arquivo `Exp
 ## 📄 Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## 💡 Contribuição
-Sugestões e melhorias são bem-vindas!  
-Sinta-se à vontade para **forkar, modificar e contribuir**.  
-
 ---
-Criado por **HermesRoot** 🤯
+Criado por **HermesRoot** 
